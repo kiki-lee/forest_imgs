@@ -1,5 +1,6 @@
 {
     "name": "New - Save the Forest Assets Only",
+    "version": "0.0.2",
     "description": "",
     "dependencies": {
         "device": "*"
